@@ -207,11 +207,11 @@ section::after {
     backface-visibility: hidden;
 }
 
-.card .back-face h3 {
+.card.back-face h3 {
     font-size: 18px;
 }
 
-.card .back-face p {
+.card.back-face p {
     font-size: 14px;
     margin-top: 15px;
 }
